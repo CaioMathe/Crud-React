@@ -1,0 +1,7 @@
+.row{
+  display: flex;
+  flex-direction: row;
+  margin-top: 15vh;
+  justify-content: center;
+  gap: 10px;
+}
